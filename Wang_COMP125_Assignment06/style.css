@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #ecf0f1;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 600px;
+  height: 100%;
+  margin: auto;
+  margin-top: 1.5em;
+}
+img {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10%;
+}
+h1 {
+  color: #d35400;
+  text-align: center;
+}
